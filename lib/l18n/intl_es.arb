@@ -1,0 +1,15 @@
+{
+  "@@last_modified": "2020-06-01T18:42:08.325594",
+  "title": "inciar sesion",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Hola Mundo",
+  "@message": {
+    "description": "Message for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
